@@ -1,0 +1,35 @@
+/*#header
+{background-color: gray;
+    }*/
+
+
+/*body
+{
+    border: 1px solid black;
+}*/
+
+/*.whole
+{background-color: #D1D1E0;
+height: 800px;
+}*/
+
+.img
+{
+height:160px;
+width:120px;
+float: left;
+}
+
+/*#right
+{float:right;
+}*/
+
+address
+{text-align: center;}
+
+#title
+{font-size: large;}
+
+#name
+{font-size: x-large;}
+
