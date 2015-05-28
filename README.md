@@ -1,3 +1,11 @@
 # Resume
 
-[Link to resume](http://lindaallen.github.io/Resume/)
+A first pass at a potential resume.
+
+##Technologies used
+
+* HTML5
+* CSS3
+* Twitter Bootstrap 
+* Git
+* Github
